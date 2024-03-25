@@ -15,7 +15,6 @@ public class UD4_GIT_GITHUB_NB {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Mundo");
     }
     
 }
